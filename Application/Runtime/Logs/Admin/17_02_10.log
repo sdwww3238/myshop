@@ -1,0 +1,1337 @@
+[ 2017-02-10T08:51:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.021996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022122s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.1841s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0070s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 0,5   [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.316657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.316786s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.018747s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018878s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015583s ]
+
+[ 2017-02-10T08:51:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0210s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 5,5   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014299s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014455s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001189s ]
+
+[ 2017-02-10T08:51:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001815s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0284s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 10,5   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000272s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013381s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013516s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000942s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001051s ]
+
+[ 2017-02-10T08:51:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0343s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 15,5   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000261s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013460s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000910s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001015s ]
+
+[ 2017-02-10T08:51:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0398s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 10,5   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000218s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000461s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021969s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022184s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001652s ]
+
+[ 2017-02-10T08:56:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/70
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0402s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=70 ) LIMIT 1   [ RunTime:0.0901s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.1088s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=70 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: goods_big_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [8] Undefined index: goods_small_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [8] Undefined index: id E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 110 行.
+NOTIC: [8] Undefined index: id E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 113 行.
+
+[ 2017-02-10T08:57:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/70
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0391s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=70 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0182s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=70 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: goods_big_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [8] Undefined index: goods_small_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [8] Undefined index: id E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 110 行.
+NOTIC: [8] Undefined index: id E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 113 行.
+NOTIC: [8] Undefined index: id E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 115 行.
+
+[ 2017-02-10T09:00:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/70
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000906s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0286s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=70 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=70 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: goods_big_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [8] Undefined index: goods_small_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [8] Undefined index: id E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 110 行.
+NOTIC: [8] Undefined index: id E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 113 行.
+
+[ 2017-02-10T09:00:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/70
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0945s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=70 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0206s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=70 )  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: goods_big_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [8] Undefined index: goods_small_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [8] Undefined index: id E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 110 行.
+NOTIC: [8] Undefined index: id E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 113 行.
+
+[ 2017-02-10T09:01:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/70
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0396s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=70 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0203s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=70 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: id E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 107 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 107 行.
+NOTIC: [2] unlink(/Public/Upload/2017-02-09/589c12c010760.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 119 行.
+NOTIC: [2] unlink(/Public/Upload/2017-02-09/thumb_589c12c010760.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 120 行.
+SQL: DELETE FROM `php41_goods` WHERE ( goods_id=70 ) [ RunTime:0.0636s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.118238s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000934s ]
+
+[ 2017-02-10T09:01:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0415s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 0,5   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017848s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018084s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000939s ]
+
+[ 2017-02-10T09:03:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0314s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 10,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000247s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015918s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016114s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000916s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001017s ]
+
+[ 2017-02-10T09:03:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/69
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0315s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=69 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0232s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=69 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: id E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 107 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 107 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 118 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 119 行.
+SQL: DELETE FROM `php41_goods` WHERE ( goods_id=69 ) [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012751s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012909s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000925s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001031s ]
+
+[ 2017-02-10T09:03:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0356s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 0,5   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013365s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013507s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2017-02-10T09:04:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.152298s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.152426s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000837s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000929s ]
+
+[ 2017-02-10T09:04:34+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0290s ]
+SQL: INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`goods_big_logo`,`goods_small_logo`,`add_time`) VALUES ('是的是的','3333','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','/Public/Upload/2017-02-10/589d11a11c3a9.jpg','/Public/Upload/2017-02-10/thumb_589d11a11c3a9.jpg','1486688673') [ RunTime:0.0630s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0122s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/2017-02-10/589d11a25a94b.jpg','/Public/Upload/2017-02-10/thumb_589d11a25a94b.jpg','72') [ RunTime:0.0418s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/2017-02-10/589d11a25a94b.jpg','/Public/Upload/2017-02-10/thumb_589d11a25a94b.jpg','72') [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009494s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000826s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001151s ]
+
+[ 2017-02-10T09:04:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001218s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000238s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011586s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011694s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001171s ]
+
+[ 2017-02-10T09:06:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001146s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0390s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 0,5   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020982s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021166s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000934s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001216s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001318s ]
+
+[ 2017-02-10T09:06:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001096s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0402s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 10,5   [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000190s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000367s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019745s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001446s ]
+
+[ 2017-02-10T09:06:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0293s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=72 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0224s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=72 )  [ RunTime:0.0007s ]
+
+[ 2017-02-10T09:06:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001154s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0346s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=72 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=72 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 105 行.
+
+[ 2017-02-10T09:08:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0398s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=72 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0210s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=72 )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: goods_big_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [8] Undefined index: goods_small_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+
+[ 2017-02-10T09:10:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0288s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=72 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0186s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=72 )  [ RunTime:0.0005s ]
+
+[ 2017-02-10T09:12:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0327s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=72 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0159s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=72 )  [ RunTime:0.0004s ]
+NOTIC: [2] unlink(2) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [2] unlink(2) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 110 行.
+SQL: DELETE FROM `php41_goods_pics` WHERE ( id=2 ) [ RunTime:0.0159s ]
+NOTIC: [2] unlink(7) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [2] unlink(7) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 110 行.
+SQL: DELETE FROM `php41_goods_pics` WHERE ( id=7 ) [ RunTime:0.0076s ]
+NOTIC: [2] unlink(/) [<a href='function.unlink'>function.unlink</a>]: Permission denied E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [2] unlink(/) [<a href='function.unlink'>function.unlink</a>]: Permission denied E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 110 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/ )' at line 1
+ [ SQL语句 ] : DELETE FROM `php41_goods_pics` WHERE ( id=/ )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/ )' at line 1
+ [ SQL语句 ] : DELETE FROM `php41_goods_pics` WHERE ( id=/ )
+
+[ 2017-02-10T09:13:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0402s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=72 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0219s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=72 )  [ RunTime:0.0007s ]
+NOTIC: [2] unlink(2) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [2] unlink(2) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 110 行.
+
+[ 2017-02-10T09:13:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0191s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=72 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=72 )  [ RunTime:0.0004s ]
+NOTIC: [2] unlink(2) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [2] unlink(2) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 110 行.
+
+[ 2017-02-10T09:17:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001639s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0395s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=72 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0204s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=72 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: goods_big_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [8] Undefined index: goods_small_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+
+[ 2017-02-10T09:17:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0546s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=72 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0216s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=72 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: goods_big_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [8] Undefined index: goods_small_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+
+[ 2017-02-10T09:19:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001154s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0306s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=72 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=72 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: goods_big_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [8] Undefined index: goods_small_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+SQL: DELETE FROM `php41_goods_pics` WHERE ( id=27 ) [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: goods_big_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [8] Undefined index: goods_small_logo E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+NOTIC: [2] unlink() [<a href='function.unlink'>function.unlink</a>]: Invalid argument E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+SQL: DELETE FROM `php41_goods_pics` WHERE ( id=28 ) [ RunTime:0.0003s ]
+NOTIC: [2] unlink(/Public/Upload/2017-02-10/589d11a11c3a9.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 114 行.
+NOTIC: [2] unlink(/Public/Upload/2017-02-10/thumb_589d11a11c3a9.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 115 行.
+SQL: DELETE FROM `php41_goods` WHERE ( goods_id=72 ) [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000256s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013492s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013647s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001616s ]
+
+[ 2017-02-10T09:19:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001404s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0389s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 0,5   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000226s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000412s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021911s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022066s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000906s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001129s ]
+
+[ 2017-02-10T09:21:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0387s ]
+SQL: INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`goods_big_logo`,`goods_small_logo`,`add_time`) VALUES ('ddddd','333','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','/Public/Upload/2017-02-10/589d15abb53af.jpg','/Public/Upload/2017-02-10/thumb_589d15abb53af.jpg','1486689707') [ RunTime:0.0025s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0260s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/2017-02-10/589d15ace74f1.jpg','/Public/Upload/2017-02-10/thumb_589d15ace74f1.jpg','73') [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009842s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009956s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001194s ]
+
+[ 2017-02-10T09:21:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001176s ]
+
+[ 2017-02-10T09:22:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001130s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0336s ]
+SQL: INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`goods_big_logo`,`goods_small_logo`,`add_time`) VALUES ('bbbbb','555','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','/Public/Upload/2017-02-10/589d15c89c7f9.jpg','/Public/Upload/2017-02-10/thumb_589d15c89c7f9.jpg','1486689736') [ RunTime:0.0018s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0113s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/2017-02-10/589d15c9b1d6d.jpg','/Public/Upload/2017-02-10/thumb_589d15c9b1d6d.jpg','74') [ RunTime:0.0003s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/2017-02-10/589d15c9b1d6d.jpg','/Public/Upload/2017-02-10/thumb_589d15c9b1d6d.jpg','74') [ RunTime:0.0004s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/2017-02-10/589d15c9b1d6d.jpg','/Public/Upload/2017-02-10/thumb_589d15c9b1d6d.jpg','74') [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009243s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009357s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000782s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001107s ]
+
+[ 2017-02-10T09:22:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001306s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000257s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012119s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000811s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001119s ]
+
+[ 2017-02-10T09:22:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001584s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0866s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 0,5   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000212s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011988s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012098s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000967s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001092s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001178s ]
+
+[ 2017-02-10T09:22:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0370s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 15,5   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000265s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017924s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000849s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001137s ]
+
+[ 2017-02-10T09:22:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/74
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0708s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=74 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0237s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=74 )  [ RunTime:0.0007s ]
+NOTIC: [2] unlink(/Public/Upload/2017-02-10/589d15c9b1d6d.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [2] unlink(/Public/Upload/2017-02-10/thumb_589d15c9b1d6d.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+SQL: DELETE FROM `php41_goods_pics` WHERE ( id=31 ) [ RunTime:0.0005s ]
+NOTIC: [2] unlink(/Public/Upload/2017-02-10/589d15c9b1d6d.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [2] unlink(/Public/Upload/2017-02-10/thumb_589d15c9b1d6d.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+SQL: DELETE FROM `php41_goods_pics` WHERE ( id=30 ) [ RunTime:0.0005s ]
+NOTIC: [2] unlink(/Public/Upload/2017-02-10/589d15c9b1d6d.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [2] unlink(/Public/Upload/2017-02-10/thumb_589d15c9b1d6d.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+SQL: DELETE FROM `php41_goods_pics` WHERE ( id=32 ) [ RunTime:0.0005s ]
+NOTIC: [2] unlink(/Public/Upload/2017-02-10/589d15c89c7f9.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 113 行.
+NOTIC: [2] unlink(/Public/Upload/2017-02-10/thumb_589d15c89c7f9.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 114 行.
+SQL: DELETE FROM `php41_goods` WHERE ( goods_id=74 ) [ RunTime:0.0028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010102s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010228s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000867s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000959s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001143s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001238s ]
+
+[ 2017-02-10T09:22:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001253s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0272s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 0,5   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000242s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014618s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001471s ]
+
+[ 2017-02-10T09:24:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001171s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.1016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 10,5   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000320s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021517s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021700s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001682s ]
+
+[ 2017-02-10T09:24:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/73
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0333s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=73 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=73 )  [ RunTime:0.0003s ]
+
+[ 2017-02-10T09:24:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/73
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0324s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=73 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0205s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=73 )  [ RunTime:0.0006s ]
+
+[ 2017-02-10T09:25:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delete/goods_id/73
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001100s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0232s ]
+SQL: SELECT * FROM `php41_goods` WHERE ( goods_id=73 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0187s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE ( goods_id=73 )  [ RunTime:0.0003s ]
+NOTIC: [2] unlink(/Public/Upload/2017-02-10/589d15ace74f1.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 108 行.
+NOTIC: [2] unlink(/Public/Upload/2017-02-10/thumb_589d15ace74f1.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 109 行.
+SQL: DELETE FROM `php41_goods_pics` WHERE ( id=29 ) [ RunTime:0.0003s ]
+NOTIC: [2] unlink(/Public/Upload/2017-02-10/589d15abb53af.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 113 行.
+NOTIC: [2] unlink(/Public/Upload/2017-02-10/thumb_589d15abb53af.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 114 行.
+SQL: DELETE FROM `php41_goods` WHERE ( goods_id=73 ) [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009651s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009767s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001151s ]
+
+[ 2017-02-10T09:25:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0318s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000249s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015175s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015315s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001449s ]
+
+[ 2017-02-10T09:26:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/showlist/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0392s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `php41_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_goods` LIMIT 10,5   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016321s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016498s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000916s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001199s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001295s ]
+
+[ 2017-02-10T09:27:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0285s ]
+SQL: INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`goods_big_logo`,`goods_small_logo`,`add_time`) VALUES ('77','7777','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','/Public/Upload/2017-02-10/589d170e22f09.jpg','/Public/Upload/2017-02-10/thumb_589d170e22f09.jpg','1486690062') [ RunTime:0.0022s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0110s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/2017-02-10/589d170f4936a.jpg','/Public/Upload/2017-02-10/thumb_589d170f4936a.jpg','75') [ RunTime:0.0003s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/2017-02-10/589d170f4936a.jpg','/Public/Upload/2017-02-10/thumb_589d170f4936a.jpg','75') [ RunTime:0.0004s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/2017-02-10/589d170f4936a.jpg','/Public/Upload/2017-02-10/thumb_589d170f4936a.jpg','75') [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009446s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009584s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001012s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001096s ]
+
+[ 2017-02-10T09:27:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002326s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000241s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001131s ]
+
+[ 2017-02-10T09:31:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000241s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051848s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000878s ]
+
+[ 2017-02-10T09:32:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0395s ]
+SQL: INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`goods_big_logo`,`goods_small_logo`,`add_time`) VALUES ('555555555555','5555555','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','/Public/Upload/2017-02-10/589d18162435f.jpg','/Public/Upload/2017-02-10/thumb_589d18162435f.jpg','1486690326') [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000372s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018793s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001602s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002175s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002443s ]
+
+[ 2017-02-10T09:32:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000225s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046926s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047043s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000997s ]
+
+[ 2017-02-10T09:32:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0399s ]
+SQL: INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('额鹅鹅鹅','222','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486690368') [ RunTime:0.0022s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savepath E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 58 行.
+NOTIC: [8] Undefined index: savename E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 58 行.
+NOTIC: [8] Undefined index: savepath E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 59 行.
+NOTIC: [8] Undefined index: savename E:\web\shop\Application\Admin\Controller\GoodsController.class.php 第 59 行.
+ERR: 不存在的图像文件
+
+[ 2017-02-10T09:33:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0391s ]
+ERR: 1062:Duplicate entry '额鹅鹅鹅' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('额鹅鹅鹅','222','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486690407')
+ERR: 1062:Duplicate entry '额鹅鹅鹅' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('额鹅鹅鹅','222','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486690407')
+
+[ 2017-02-10T09:33:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0391s ]
+SQL: INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('额鹅鹅鹅','222','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486690425') [ RunTime:0.0021s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-02-10T09:38:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0464s ]
+ERR: 1062:Duplicate entry '额鹅鹅鹅' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('额鹅鹅鹅','222','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486690684')
+ERR: 1062:Duplicate entry '额鹅鹅鹅' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('额鹅鹅鹅','222','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486690684')
+
+[ 2017-02-10T09:38:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0405s ]
+SQL: INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('额鹅鹅鹅','222','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486690695') [ RunTime:0.0022s ]
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 230 行.
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 148 行.
+NOTIC: [8] Undefined index: error E:\web\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 148 行.
+NOTIC: [8] Undefined index: error E:\web\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 148 行.
+NOTIC: [8] Undefined index: error E:\web\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 148 行.
+NOTIC: [8] Undefined index: error E:\web\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 148 行.
+NOTIC: [8] Undefined index: error E:\web\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+
+[ 2017-02-10T09:40:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0213s ]
+SQL: INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('额鹅鹅鹅','222','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486690805') [ RunTime:0.0014s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0126s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/2017-02-10/589d19f6d5bee.jpg','/Public/Upload/2017-02-10/thumb_589d19f6d5bee.jpg','82') [ RunTime:0.0004s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/','/Public/Upload/thumb_','82') [ RunTime:0.0003s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/','/Public/Upload/thumb_','82') [ RunTime:0.0003s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/','/Public/Upload/thumb_','82') [ RunTime:0.0002s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/','/Public/Upload/thumb_','82') [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008790s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008898s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000890s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000972s ]
+
+[ 2017-02-10T09:40:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001538s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048945s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001031s ]
+
+[ 2017-02-10T09:41:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016995s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000326s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000799s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.437357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.437478s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.022597s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.022707s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012876s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012990s ]
+
+[ 2017-02-10T09:41:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0345s ]
+SQL: INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('ewew','22','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486690878') [ RunTime:0.0026s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-02-10T09:43:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001531s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0687s ]
+ERR: 1062:Duplicate entry 'ewew' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('ewew','22','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486691010')
+ERR: 1062:Duplicate entry 'ewew' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('ewew','22','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486691010')
+
+[ 2017-02-10T09:44:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001538s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0308s ]
+SQL: INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('ewew','22','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486691045') [ RunTime:0.0022s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\web\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-02-10T09:51:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0179s ]
+ERR: 1062:Duplicate entry 'ewew' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('ewew','22','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486691498')
+ERR: 1062:Duplicate entry 'ewew' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('ewew','22','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486691498')
+
+[ 2017-02-10T09:51:52+08:00 ] 127.0.0.1 /index.php/Admin/Goods/addOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0359s ]
+SQL: INSERT INTO `php41_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`,`add_time`) VALUES ('ewew','22','0','&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;','1486691511') [ RunTime:0.0017s ]
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 230 行.
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 148 行.
+NOTIC: [8] Undefined index: error E:\web\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0176s ]
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/','/Public/Upload/thumb_','87') [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 230 行.
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 148 行.
+NOTIC: [8] Undefined index: error E:\web\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/','/Public/Upload/thumb_','87') [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 230 行.
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 148 行.
+NOTIC: [8] Undefined index: error E:\web\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/','/Public/Upload/thumb_','87') [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 230 行.
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 148 行.
+NOTIC: [8] Undefined index: error E:\web\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/','/Public/Upload/thumb_','87') [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 230 行.
+NOTIC: [8] Undefined index: name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 148 行.
+NOTIC: [8] Undefined index: error E:\web\ThinkPHP\Library\Think\Upload.class.php 第 269 行.
+NOTIC: [8] Undefined index: tmp_name E:\web\ThinkPHP\Library\Think\Upload.class.php 第 280 行.
+SQL: INSERT INTO `php41_goods_pics` (`pics_big`,`pics_small`,`goods_id`) VALUES ('/Public/Upload/','/Public/Upload/thumb_','87') [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036027s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036185s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001043s ]
+
+[ 2017-02-10T09:51:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000243s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011690s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000921s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001012s ]
+

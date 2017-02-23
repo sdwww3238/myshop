@@ -1,0 +1,512 @@
+[ 2017-02-13T11:15:04+08:00 ] 127.0.0.1 /index.php/back/admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000250s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046112s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046263s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000946s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001045s ]
+
+[ 2017-02-13T11:15:04+08:00 ] 127.0.0.1 /index.php/Back/Admin/verifyImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003751s ]
+
+[ 2017-02-13T11:15:49+08:00 ] 127.0.0.1 /index.php/back/admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000239s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032238s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000833s ]
+
+[ 2017-02-13T11:15:49+08:00 ] 127.0.0.1 /index.php/Back/Admin/verifyImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000910s ]
+
+[ 2017-02-13T11:18:08+08:00 ] 127.0.0.1 /index.php/back/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-02-13T11:19:05+08:00 ] 127.0.0.1 /index.php/Back/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-02-13T11:19:13+08:00 ] 127.0.0.1 /index.php/Back/admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034663s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034774s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001612s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001766s ]
+
+[ 2017-02-13T11:19:13+08:00 ] 127.0.0.1 /index.php/Back/Admin/verifyImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001121s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001284s ]
+
+[ 2017-02-13T11:19:34+08:00 ] 127.0.0.1 /index.php/Back/auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: SHOW COLUMNS FROM `php41_auth` [ RunTime:0.0341s ]
+SQL: SELECT * FROM `php41_auth` ORDER BY auth_path  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051052s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051229s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001893s ]
+
+[ 2017-02-13T11:19:48+08:00 ] 127.0.0.1 /index.php/Back/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-02-13T11:20:32+08:00 ] 127.0.0.1 /index.php/Back/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017167s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017286s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000825s ]
+
+[ 2017-02-13T11:21:21+08:00 ] 127.0.0.1 /index.php/Back/index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000818s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000906s ]
+
+[ 2017-02-13T11:21:35+08:00 ] 127.0.0.1 /index.php/Back/index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0392s ]
+SQL: SELECT r.role_auth_ids FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE m.mg_id = null LIMIT 1   [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `php41_auth` [ RunTime:0.0574s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and auth_level=0 )' at line 1
+
+[ 2017-02-13T11:23:04+08:00 ] 127.0.0.1 /index.php/Back/index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0346s ]
+SQL: SELECT r.role_auth_ids FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE m.mg_id = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `php41_auth` [ RunTime:0.0132s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and auth_level=0 )' at line 1
+
+[ 2017-02-13T11:23:07+08:00 ] 127.0.0.1 /index.php/Back/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015545s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000899s ]
+
+[ 2017-02-13T11:23:18+08:00 ] 127.0.0.1 /index.php/Back/auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `php41_auth` [ RunTime:0.0401s ]
+SQL: SELECT * FROM `php41_auth` ORDER BY auth_path  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000244s ]
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+NOTIC: [8] Undefined index: auth_lever E:\web\shop\Application\Runtime\Cache\Back\a7bb9def2eb3858cb9eab08085f4645f.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031118s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031232s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001266s ]
+
+[ 2017-02-13T11:23:35+08:00 ] 127.0.0.1 /index.php/Back/admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000237s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032738s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032944s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001010s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001136s ]
+
+[ 2017-02-13T11:23:35+08:00 ] 127.0.0.1 /index.php/Back/Admin/verifyImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001174s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001362s ]
+
+[ 2017-02-13T11:24:36+08:00 ] 127.0.0.1 /index.php/Back/Admin/verifyImg/y/0.05772118848247931
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000919s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001415s ]
+
+[ 2017-02-13T11:24:37+08:00 ] 127.0.0.1 /index.php/Back/Admin/verifyImg/y/0.20595471183127834
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001098s ]
+
+[ 2017-02-13T11:26:55+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=1235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001209s ]
+
+[ 2017-02-13T11:26:56+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=1235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002605s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001888s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002100s ]
+
+[ 2017-02-13T11:27:59+08:00 ] 127.0.0.1 /index.php/Back/Admin/verifyImg/y/0.21930753401098713
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000933s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001048s ]
+
+[ 2017-02-13T11:28:00+08:00 ] 127.0.0.1 /index.php/Back/Admin/verifyImg/y/0.7485418027081157
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001160s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001345s ]
+
+[ 2017-02-13T11:28:53+08:00 ] 127.0.0.1 /index.php/Back/admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001220s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000256s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010543s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010653s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000825s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000927s ]
+
+[ 2017-02-13T11:28:53+08:00 ] 127.0.0.1 /index.php/Back/Admin/verifyImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001539s ]
+
+[ 2017-02-13T11:28:55+08:00 ] 127.0.0.1 /index.php/Back/Admin/verifyImg/y/0.4131844415558463
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001178s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001346s ]
+
+[ 2017-02-13T11:31:13+08:00 ] 127.0.0.1 /index.php/Back/admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031748s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000808s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001180s ]
+
+[ 2017-02-13T11:31:14+08:00 ] 127.0.0.1 /index.php/Back/Admin/verifyImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002542s ]
+
+[ 2017-02-13T11:31:17+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=ffff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001383s ]
+
+[ 2017-02-13T11:31:17+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=ffff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000960s ]
+
+[ 2017-02-13T11:31:18+08:00 ] 127.0.0.1 /index.php/Back/Admin/verifyImg/y/0.01972007202783921
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000904s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001011s ]
+
+[ 2017-02-13T11:32:18+08:00 ] 127.0.0.1 /index.php/Back/admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031983s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032167s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001027s ]
+
+[ 2017-02-13T11:32:18+08:00 ] 127.0.0.1 /index.php/Back/Admin/verifyImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001817s ]
+

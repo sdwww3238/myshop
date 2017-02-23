@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>添加商品</title>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8">
+        <link href="__ADMIN__/css/mine.css" type="text/css" rel="stylesheet" />
+    </head>
+    <body>
+        <div class="div_head">
+            <span>
+                <span style="float:left">当前位置是：商品管理-》添加商品信息</span>
+                <span style="float:right;margin-right: 8px;font-weight: bold">
+                    <a style="text-decoration: none" href="{:U('showlist')}">【返回】</a>
+                </span>
+            </span>
+        </div>
+        <div></div>
+
+        <div style="font-size: 13px;margin: 10px 5px">
+            <form action="__SELF__" method="post" enctype="multipart/form-data">
+                <input type='hidden' name='role_id' value="{$roleinfo.role_id}" />
+                <table border="1" width="100%" class="table_a" id="general-tab-tb">
+                    <tr>
+                        <td style='font-size:30px;' colspan='100'>当前分配权限的角色：{$roleinfo.role_name}</td>
+                    </tr>
+                    <foreach name='auth_infoA' item='v'>
+                        <tr>
+                            <td><input type='checkbox' name='role_auth_ids[]' value='{$v.auth_id}'
+                                <in name="v['auth_id']" value="$roleinfo['role_auth_ids']">
+                                    checked='checked'
+                                </in>
+                                >{$v.auth_name}</td>
+                            <td>
+                                <foreach name='auth_infoB' item='vv'>
+                                    <if condition="$vv['auth_pid'] eq $v['auth_id']">
+                                        <div class='yang'><input type='checkbox' name='role_auth_ids[]' value='{$vv.auth_id}'
+                                            <in name="vv['auth_id']" value="$roleinfo['role_auth_ids']">
+                                                checked='checked'
+                                            </in>
+                                            >{$vv.auth_name}</div>
+                                    </if>
+                                </foreach>
+                            </td>
+                        </tr>
+                    </foreach>
+                    <tr>
+                        <td colspan='100'><input type="submit" name='now_act' value="分配权限" /></td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </body>
+
+</html>

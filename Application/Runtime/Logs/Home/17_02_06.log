@@ -1,0 +1,422 @@
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.036175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.036311s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000367s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000508s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.196007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.196201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.014184s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015430s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/style/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001768s ]
+ERR: 非法操作:__HOME__
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/style/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001496s ]
+ERR: 非法操作:__HOME__
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/style/header.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001627s ]
+ERR: 非法操作:__HOME__
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/style/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001551s ]
+ERR: 非法操作:__HOME__
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/style/bottomnav.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000937s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002011s ]
+ERR: 非法操作:__HOME__
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/style/footer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+ERR: 非法操作:__HOME__
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001251s ]
+ERR: 非法操作:__HOME__
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002309s ]
+ERR: 非法操作:__HOME__
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002133s ]
+ERR: 非法操作:__HOME__
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/index_slide2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/index_slide1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/view_list1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/view_list3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/view_list2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/index_slide3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/index_slide5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/index_slide6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/index_slide4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/holiday.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/sanguo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/wulin.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/lottery.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/crazy1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/taohua.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/crazy2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/crazy4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/scenic.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/crazy3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-02-06T10:11:59+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/hot1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/hot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/hot3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/crazy5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/recommend2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/recommend3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/new1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/new2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/guess1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/guess2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/recommend1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001132s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/samsung.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/guess3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007907s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/notebook.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/acer4739.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/hpG4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/new3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003793s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/lh531.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/acer.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/dell.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/samsung6800.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/thinkpad%20e420.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/hp.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000881s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/samsung.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/lenove.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010469s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/dlink.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/seagate.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/intel.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/fujitsu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003681s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/qinghuax2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000740s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004366s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/canon.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/kexin.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/xin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/beian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+
+[ 2017-02-06T10:12:00+08:00 ] 127.0.0.1 /index.php/home/index/__HOME__/images/police.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+
+[ 2017-02-06T10:12:36+08:00 ] 127.0.0.1 /index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000402s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000533s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071987s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072101s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002715s ]
+
+[ 2017-02-06T10:14:37+08:00 ] 127.0.0.1 /index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000475s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000636s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047760s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047888s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001108s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001299s ]
+

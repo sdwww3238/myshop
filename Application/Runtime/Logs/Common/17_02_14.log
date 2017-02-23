@@ -1,0 +1,6 @@
+[ 2017-02-14T21:32:22+08:00 ] 127.0.0.1 /index.php/k
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+ERR: 无法加载模块:K
+
